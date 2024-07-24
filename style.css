@@ -5,10 +5,16 @@ ul{list-style-type: none;
 }
 
 /*Jumbotron*/
-.jumbotron{height:300px;}
+.jumbotron{height:400px;}
 
 
 /*Portfolio*/ 
-.col{border:dashed;
+.portfolio{height:800px;}
+.portfolio-container .col{border:dashed;
 height:100px;
 }
+.row{border:dashed;}
+
+/*About*/ 
+.about{height:400px;}
+.col{border: dashed;}
