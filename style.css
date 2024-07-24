@@ -7,6 +7,8 @@ ul{list-style-type: none;
 /*Jumbotron*/
 .jumbotron{height:300px;}
 
-.container{border:dashed;}
 
 /*Portfolio*/ 
+.col{border:dashed;
+height:100px;
+}
