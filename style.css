@@ -3,3 +3,8 @@ header{height:80px;
 }
 ul{list-style-type: none;
 }
+
+/*Jumbotron*/
+.jumbotron{height:300px;}
+
+.container{border:dashed;}
