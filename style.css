@@ -16,8 +16,13 @@ height:100px;
 .row{border:dashed;}
 
 /*About*/ 
-.about{height:400px;}
+.about{height:500px;}
 .col{border: dashed;}
 a{text-decoration: none;}
 /*Contact me*/
 .container-contact div{border-bottom: 1px solid black;}
+/*Info*/
+
+.info .col{height:100px;}
+/*Footer*/
+footer{height:80px;}
