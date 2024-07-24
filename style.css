@@ -19,3 +19,5 @@ height:100px;
 .about{height:400px;}
 .col{border: dashed;}
 a{text-decoration: none;}
+/*Contact me*/
+.container-contact div{border-bottom: 1px solid black;}
