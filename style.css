@@ -6,18 +6,21 @@ ul{list-style-type: none;
 
 /*Jumbotron*/
 .jumbotron{height:400px;}
-
+.user{height:200px;}
 
 /*Portfolio*/ 
-.portfolio{height:800px;}
-.portfolio-container .col{border:dashed;
-height:100px;
+.portfolio{height:auto;}
+.portfolio-container .col{
+height:auto;
 }
-.row{border:dashed;}
+
 
 /*About*/ 
 .about{height:500px;}
-.col{border: dashed;}
+.col{
+max-height:300px;
+    
+}
 a{text-decoration: none;}
 /*Contact me*/
 .container-contact div{border-bottom: 1px solid black;}
@@ -26,3 +29,8 @@ a{text-decoration: none;}
 .info .col{height:100px;}
 /*Footer*/
 footer{height:80px;}
+
+img{display:block;
+    max-height: 100%;
+width:100%;}
+
