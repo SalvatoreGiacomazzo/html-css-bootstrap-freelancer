@@ -23,7 +23,9 @@ max-height:300px;
 }
 a{text-decoration: none;}
 /*Contact me*/
-.container-contact div{border-bottom: 1px solid black;}
+.contact-container{width:50%;}
+form{width:100%;}
+input{width:100%;}
 /*Info*/
 
 .info .col{height:100px;}
@@ -33,4 +35,7 @@ footer{height:80px;}
 img{display:block;
     max-height: 100%;
 width:100%;}
+
+
+
 
